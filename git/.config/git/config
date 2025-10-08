@@ -10,3 +10,5 @@
 [user]
 	name = Lea Foreman
 	email = leafuk@gmail.com
+[credential]
+	helper = cache
